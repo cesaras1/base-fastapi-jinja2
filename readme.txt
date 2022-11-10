@@ -1,1 +1,1 @@
-aplicacion crud de fastapi para consumir bd oracle y dar servicio deactivos.
+aplicacion base de jinja conuna pagina index.html simple.
