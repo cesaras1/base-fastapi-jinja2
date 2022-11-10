@@ -1,1 +1,1 @@
-aplicacion base de jinja conuna pagina index.html simple.
+aplicacion base de jinja con una pagina index.html simple.
